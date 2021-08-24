@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "WR_wells",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::26914" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 1, "NAME": "WP-09" }, "geometry": { "type": "Point", "coordinates": [ 584918.839976751012728, 3333666.696993358898908 ] } },
+{ "type": "Feature", "properties": { "ID": 2, "NAME": "WP-10" }, "geometry": { "type": "Point", "coordinates": [ 584905.963785298750736, 3333688.321298902388662 ] } },
+{ "type": "Feature", "properties": { "ID": 3, "NAME": "WP-11" }, "geometry": { "type": "Point", "coordinates": [ 584905.534150893450715, 3333689.585508095100522 ] } },
+{ "type": "Feature", "properties": { "ID": 4, "NAME": "WP-04" }, "geometry": { "type": "Point", "coordinates": [ 584918.743675339501351, 3333700.069201981183141 ] } },
+{ "type": "Feature", "properties": { "ID": 5, "NAME": "WP-05" }, "geometry": { "type": "Point", "coordinates": [ 584919.032922067330219, 3333710.724173089489341 ] } },
+{ "type": "Feature", "properties": { "ID": 6, "NAME": "WP-12" }, "geometry": { "type": "Point", "coordinates": [ 584896.127591381547973, 3333671.791837147437036 ] } },
+{ "type": "Feature", "properties": { "ID": 7, "NAME": "WP-13" }, "geometry": { "type": "Point", "coordinates": [ 584895.777690333547071, 3333673.187040392309427 ] } },
+{ "type": "Feature", "properties": { "ID": 8, "NAME": "WP-03" }, "geometry": { "type": "Point", "coordinates": [ 584918.104971195105463, 3333692.492117674555629 ] } },
+{ "type": "Feature", "properties": { "ID": 9, "NAME": "WP-01" }, "geometry": { "type": "Point", "coordinates": [ 584923.286975219030865, 3333684.727365584112704 ] } },
+{ "type": "Feature", "properties": { "ID": 10, "NAME": "WP-02" }, "geometry": { "type": "Point", "coordinates": [ 584926.101080164429732, 3333686.273718941956758 ] } },
+{ "type": "Feature", "properties": { "ID": 11, "NAME": "WP-08" }, "geometry": { "type": "Point", "coordinates": [ 584898.801047614659183, 3333699.915168553590775 ] } },
+{ "type": "Feature", "properties": { "ID": 12, "NAME": "WP-07" }, "geometry": { "type": "Point", "coordinates": [ 584910.464311793912202, 3333703.604444561526179 ] } },
+{ "type": "Feature", "properties": { "ID": 13, "NAME": "WP-06" }, "geometry": { "type": "Point", "coordinates": [ 584911.90744381537661, 3333704.933153695426881 ] } }
+]
+}
